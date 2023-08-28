@@ -1,5 +1,5 @@
 {
-    "name": "laravel/ui",
+    "name": "gandom/report",
     "description": "Laravel report tool",
     "keywords": ["laravel", "report"],
     "license": "MIT",
